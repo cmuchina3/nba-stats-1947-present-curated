@@ -55,9 +55,6 @@ Typical files include:
 
 No structural modifications were made to these raw files.
 
-### /data/processed/
-Contains cleaned or curated versions of the dataset (if applicable). Any transformations are documented in `/docs/processing-notes.md`.
-
 ### /docs/data-dictionary.md
 Provides column-level definitions for key variables in the dataset, including:
 - Variable meanings  
@@ -77,7 +74,7 @@ Documents any steps taken during curation, including:
 This file supports transparency and reproducibility.
 
 ### /metadata/datacite-metadata.xml
-Structured metadata file created using the DataCite Metadata Schema.
+Structured metadata file created using the DataCite Metadata Schema, used CoPilot to help complete this.
 
 Includes:
 - Creator(s)  
