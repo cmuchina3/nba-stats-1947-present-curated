@@ -1,1 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
 
+  <identifier identifierType="Local">TBD (DOI will be minted upon Zenodo publication)</identifier>
+
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Muchina, Clarence</creatorName>
+      <givenName>Clarence</givenName>
+      <familyName>Muchina</familyName>
+      <affiliation>University of Washington</affiliation>
+    </creator>
+  </creators>
+
+  <titles>
+    <title>Curated NBA/ABA/BAA Player and Team Statistics Dataset (1947–Present)</title>
+    <title titleType="AlternativeTitle">Curated Version of Kaggle Dataset: NBA-ABA-BAA Stats (1947-Present)</title>
+  </titles>
+
+  <publisher>GitHub</publisher>
+
+  <publicationYear>2026</publicationYear>
+
+  <resourceType resourceTypeGeneral="Dataset">Sports Analytics Dataset</resourceType>
+
+  <subjects>
+    <subject>Basketball</subject>
+    <subject>NBA</subject>
+    <subject>Sports Analytics</subject>
+    <subject>Historical Statistics</subject>
+    <subject>Professional Sports Data</subject>
+  </subjects>
+
+  <dates>
+    <date dateType="Created">2026-02-27</date>
+  </dates>
+
+  <language>en</language>
+
+  <formats>
+    <format>text/csv</format>
+    <format>text/markdown</format>
+    <format>application/xml</format>
+  </formats>
+
+  <sizes>
+    <size>22 CSV files plus documentation and metadata files</size>
+  </sizes>
+
+  <version>1.0</version>
+
+  <rightsList>
+    <rights>See README for source licensing and reuse constraints (Kaggle dataset license applies).</rights>
+  </rightsList>
+
+  <descriptions>
+    <description descriptionType="Abstract">
+      This record contains a curated version of a public basketball statistics dataset spanning 1947 to the present, including BAA, NBA, and ABA seasons. The dataset includes multiple CSV tables covering player statistics, team statistics, advanced metrics, award shares, draft history, and seasonal summaries. The curated repository enhances the original dataset by improving file organization, documentation, metadata structure, and preservation readiness. It is intended for educational and research reuse in sports analytics, historical trend analysis, and reproducible data workflows.
+    </description>
+
+    <description descriptionType="Methods">
+      Curation activities included organizing files into a consistent naming convention, documenting file-level contents, preparing a structured DataCite XML metadata record, and improving repository-level documentation through a README file and supporting materials. No alterations were made to the raw statistical values; only organizational and descriptive enhancements were implemented.
+    </description>
+
+    <description descriptionType="Other">
+      Original source dataset available via Kaggle: NBA-ABA-BAA Stats (1947-Present). This curated version preserves provenance while improving discoverability and documentation.
+    </description>
+  </descriptions>
+
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo">
+      https://github.com/cmuchina3/nba-stats-1947-present-curated/tree/main
+    </relatedIdentifier>
+  </relatedIdentifiers>
+
+</resource>
