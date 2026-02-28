@@ -25,6 +25,7 @@ According to the Kaggle listing, the dataset is described as public domain. User
 
 ## Repository Structure
 
+```text
 nba-stats-1947-present-curated/
 │
 ├── README.md
@@ -43,7 +44,8 @@ nba-stats-1947-present-curated/
 │   └── datacite-metadata.xml
 │
 └── report/
-└── final-report.pdf
+    └── final-report.pdf
+```
 
 ## File and Folder Descriptions
 
