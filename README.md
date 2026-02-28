@@ -33,9 +33,7 @@ nba-stats-1947-present-curated/
 ├── data/
 │   ├── raw/
 │   │   └── (original Kaggle CSV files)
-│   └── processed/
-│       └── (curated or renamed files, if applicable)
-│
+|
 ├── docs/
 │   ├── data-dictionary.md
 │   └── processing-notes.md
