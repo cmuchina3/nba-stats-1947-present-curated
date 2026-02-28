@@ -54,7 +54,7 @@ https://help.zenodo.org/docs/
 
 # 3. Recommended Data Citation
 
-Muchina, C. (2026). *Curated NBA/ABA/BAA Player and Team Statistics Dataset (1947–Present)* (Version 1.0) [https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/code]. GitHub repository. Derived from Kaggle dataset “NBA-ABA-BAA Stats (1947–Present).”
+Muchina, C. (2026). *Curated NBA/ABA/BAA Player and Team Statistics Dataset (1947–Present)* (Version 1.0) [https://github.com/cmuchina3/nba-stats-1947-present-curated/tree/main]. GitHub repository. Derived from Kaggle dataset “NBA-ABA-BAA Stats (1947–Present).”
 
 This citation includes:
 
