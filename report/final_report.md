@@ -103,10 +103,6 @@ No specialized or proprietary software is required to access the data. Files can
 
 This reduces technological dependency risk.
 
-## Versioning
-
-The repository is labeled Version 1.0. Future updates should follow semantic versioning to prevent citation ambiguity. Version control through GitHub preserves file history and provenance.
-
 ## Interpretive Preservation Risk
 
 A more significant long-term preservation concern is semantic drift. Statistical definitions in basketball have evolved over time (e.g., introduction of the three-point line, advanced metrics such as PER). Documentation is therefore essential to preserve interpretive context.
