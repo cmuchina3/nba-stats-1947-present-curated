@@ -28,16 +28,22 @@ According to the Kaggle listing, the dataset is described as public domain. User
 nba-stats-1947-present-curated/
 │
 ├── README.md
+│
 ├── data/
 │   ├── raw/
+│   │   └── (original Kaggle CSV files)
 │   └── processed/
+│       └── (curated or renamed files, if applicable)
+│
 ├── docs/
 │   ├── data-dictionary.md
 │   └── processing-notes.md
+│
 ├── metadata/
 │   └── datacite-metadata.xml
+│
 └── report/
-    └── final-report.pdf
+└── final-report.pdf
 
 ## File and Folder Descriptions
 
