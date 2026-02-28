@@ -106,7 +106,7 @@ Final project report containing:
 
 ## Recommended Citation
 
-Curator Last Name, First Name. (2026). *Curated NBA / ABA / BAA Statistics Dataset (1947–Present)* [Dataset]. GitHub repository. Original data compiled by Sumitro Datta via Kaggle.
+Curator Last Name, First Name. (2026). *Curated NBA / ABA / BAA Statistics Dataset (1947–Present)* [https://github.com/cmuchina3/nba-stats-1947-present-curated/tree/main]. GitHub repository. Original data compiled by Sumitro Datta via Kaggle.
 
 ---
 
