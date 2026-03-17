@@ -3,7 +3,7 @@
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
 
-  <identifier identifierType="Local">TBD (DOI will be minted upon Zenodo publication)</identifier>
+  <identifier identifierType="URL">https://github.com/cmuchina3/nba-stats-1947-present-curated</identifier>
 
   <creators>
     <creator>
@@ -39,15 +39,21 @@
 
   <language>en</language>
 
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo">
+      https://github.com/cmuchina3/nba-stats-1947-present-curated
+    </relatedIdentifier>
+  </relatedIdentifiers>
+
+  <sizes>
+    <size>22 CSV files plus documentation and metadata files</size>
+  </sizes>
+
   <formats>
     <format>text/csv</format>
     <format>text/markdown</format>
     <format>application/xml</format>
   </formats>
-
-  <sizes>
-    <size>22 CSV files plus documentation and metadata files</size>
-  </sizes>
 
   <version>1.0</version>
 
@@ -68,11 +74,5 @@
       Original source dataset available via Kaggle: NBA-ABA-BAA Stats (1947-Present). This curated version preserves provenance while improving discoverability and documentation.
     </description>
   </descriptions>
-
-  <relatedIdentifiers>
-    <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo">
-      https://github.com/cmuchina3/nba-stats-1947-present-curated/tree/main
-    </relatedIdentifier>
-  </relatedIdentifiers>
 
 </resource>
